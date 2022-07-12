@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI & RL
 - 📫 How to reach me : itreza7@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itreza7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itreza7&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Reza Shirazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itreza7&show_icons=true)
 
