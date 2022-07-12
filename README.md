@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning AI & RL
 - 📫 How to reach me : itreza7@gmail.com
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itreza7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=itreza7)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Reza Shirazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itreza7&show_icons=true&theme=radical)
+![Reza Shirazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=itreza7&show_icons=true)
 
-![Reza Shirazi's Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=itreza7&layout=compact&theme=tokyonight&hide_border=true)
+![Reza Shirazi's Most Language Used](https://github-readme-stats.vercel.app/api/top-langs/?username=itreza7&layout=compact&hide_border=true)
