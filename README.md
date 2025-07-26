@@ -99,7 +99,7 @@ I currently specialize in building high-performance systems that handle everythi
 **Platform Impact:**
 - 🚗 **20+ automotive dealers** actively using the platform
 - 📊 **20,000+ vehicle listings** managed daily
-- 👥 **500,000+ daily visits** with consistent performance
+- 👥 **1,000,000+ daily visits** with consistent performance
 - ⚡ **60% response time improvement** through architecture optimization
 
 **Technical Leadership:**
