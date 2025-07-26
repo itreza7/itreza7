@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-itreza7%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:itreza7@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-itreza7-181717?style=flat-square&logo=github)](https://github.com/itreza7)
-[![Location](https://img.shields.io/badge/Location-Remote-green?style=flat-square&logo=googlemaps&logoColor=white)]()
+[![Telegram](https://img.shields.io/badge/Telegram-itreza7-blue?style=flat-square&logo=github)](https://github.com/itreza7)
 
 
 *Building scalable systems at the intersection of AI, blockchain, and high-performance computing*
