@@ -40,7 +40,7 @@ class RezaShirazi:
 
 I'm a backend-focused software engineer with **over 10 years of experience** designing scalable platforms and building AI-powered automation systems. My expertise spans Python-based microservices, multi-agent AI workflows, serverless architectures, blockchain integrations, and system automation — often at the intersection of infrastructure, AI, and developer tooling.
 
-I currently specialize in building high-performance systems that handle everything from cryptocurrency payment gateways processing millions in transactions to automotive platforms serving 500K+ daily visits. My approach combines deep technical knowledge with business acumen to deliver solutions that scale.
+I currently specialize in building high-performance systems that handle everything from cryptocurrency payment gateways processing millions in transactions to automotive platforms serving 1M+ daily visits. My approach combines deep technical knowledge with business acumen to deliver solutions that scale.
 
 
 ---
