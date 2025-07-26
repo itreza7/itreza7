@@ -8,7 +8,7 @@
 |--------|-------|
 | 🏗️ **Total Projects** | 30+ |
 | 🌐 **Technology Stacks** | 15+ |
-| 📈 **Scale Achieved** | 500K+ daily visits, 20K+ vehicle listings |
+| 📈 **Scale Achieved** | 1M+ daily visits, 20K+ vehicle listings |
 | ⚡ **Performance** | Sub-50ms response times |
 
 ---
